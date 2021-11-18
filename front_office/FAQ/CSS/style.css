@@ -1,0 +1,8 @@
+.faq {
+	min-height: 700px;
+}
+.faq li{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 100%;
+}

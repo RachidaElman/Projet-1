@@ -1,0 +1,21 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  padding-top: 100px;
+}
+
+#h1index {
+	text-align: center;
+	padding-top: 40px;
+}
+
+.info{
+  margin: 30px;
+  min-height: 600px;
+ 
+}
+	.info li{
+	  margin-bottom: 10px;
+	}

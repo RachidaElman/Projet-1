@@ -1,0 +1,25 @@
+.contact {
+  margin: 10px;
+  display: flex;
+}
+	.contact li {
+	margin: 10px;
+	display: flex;
+	}
+
+.message{
+	margin: 10px;
+	min-height: 700px;
+}
+
+	.message p{
+		margin: 10px;
+	}
+
+	.message label{
+		margin: 10px;
+	}
+
+	.message .input type[submit]{
+		margin-right: 20px;
+	}

@@ -1,0 +1,59 @@
+aside {
+  width: 40%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin-top: 120px;
+  float: right;
+  padding-right: 15px;
+}  
+	aside > div {
+	  overflow: scroll;
+	  background-color: #F29866;
+	  font-size: 70%;
+	  height:auto;
+	}
+	aside > div h2{
+	text-align: center;
+	margin:10px;
+	}
+	aside > div h3{
+	text-align: left;
+	margin-left:10px;
+	margin-top:10px;
+	margin-bottom:5px;
+	}
+	aside > div h4{
+	margin:10px;
+	}
+	aside > div a{
+	  text-decoration: none;
+	}
+
+form {
+    margin-left: 20px;
+	margin-top: 20px;
+    width: 50%;
+}
+
+h2 {
+	margin-left: 30px;
+}
+
+form.hautform {
+	min-height: 1000px;
+}
+
+label, select, input, textarea{
+	margin-top: 10px;
+	margin-bottom: 15px;
+	font-size:15px;
+}
+
+input[type="text"]{
+	display: block;
+}	
+
+legend {
+	color:#ec681f;
+	font-weight:bold
+}
